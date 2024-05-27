@@ -30,7 +30,8 @@ npm install
 
 ## Step 2
 
-**Don't forget the token:** After creating the bot, enable `applications.commands` then enable `OAuth2` [go to developer portal](https://discord.com/developers/applications/).
+**Don't forget the token:** After creating the bot, enable `applications.commands` then enable `OAuth2` go to [developer portal](https://discord.com/developers/applications/).
+
 <img src="./img/ur image">
 
 ## Step 3
