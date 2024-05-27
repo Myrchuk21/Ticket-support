@@ -6,7 +6,7 @@ client.on("ready", () => {
   //LOG IN YOUR TERMINAM
   
   
-  client.user.setActivity("qfact.de",{type: "STREAMING", url: "https://twitch.tv/myrchuk21"})
+  client.user.setActivity("test.com",{type: "STREAMING", url: "https://twitch.tv/myrchuk21"})
   })
 
 
