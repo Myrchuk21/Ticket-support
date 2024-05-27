@@ -11,9 +11,6 @@ In order to run the bot we need!
 
 ### Install
 
-npm i / npm install
-
-
 ```bash
 # Download the source code to your computer
 
