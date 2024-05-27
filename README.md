@@ -4,7 +4,7 @@
 
 - [Node](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
-- 
+  
 ## Step 1
 
 In order to run the bot we need!
