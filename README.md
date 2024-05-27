@@ -35,4 +35,14 @@ npm install
 
 ## Step 3
 
-go to config.js and configuriren ur prefix (start commands / prefix/setup and test command  prefix/ping).
+go to config.js and configuriren ur prefix 
+
+```
+# Setup
+
+Ur prefix /setup (qf!setup)
+
+# Test online
+
+Ur prefix /ping (qf!ping)
+```
