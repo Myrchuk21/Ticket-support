@@ -1,6 +1,6 @@
 # Ticket-support by Discord
 
-## Install
+## Install engine
 
 - [Node](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
