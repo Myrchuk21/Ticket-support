@@ -44,3 +44,23 @@ Ur prefix /setup (qf!setup)
 
 Ur prefix /ping (qf!ping)
 ```
+
+
+## Bot status
+
+```
+// Accepted activity types
+
+ActivityType.Playing
+ActivityType.Listening
+ActivityType.Watching
+ActivityType.Competing
+ActivityType.Streaming // Lets you use url parameter. This can be a YouTube or Twitch link.
+ActivityType.Custom // Unsupported in discord.js. Will be added at some point.
+
+// Accepted statusses
+"online"
+"offline"
+"idle"
+"dnd"
+```
