@@ -22,7 +22,7 @@ cd Tciket-Support/
 
 # Intall modules
 
-npm install
+npm install or npm i
 ```
 
 ## Step 2
