@@ -4,6 +4,7 @@
 
 - [Node](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
+- [JS 13+](https://www.javascript.com/)
   
 ## Step 1
 
